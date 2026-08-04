@@ -75,17 +75,6 @@ Enterprise-focused **Software Engineer** specializing in machine learning archit
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yash-041&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=0ea5e9&border_color=334155" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-041&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&border_color=334155" width="48%" alt="Top Languages" />
-  </p>
-
-</div>
-
 ---
 
 <div align="center">
