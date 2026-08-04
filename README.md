@@ -1,184 +1,103 @@
 <div align="center">
 
-<!-- ================= WAVE BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Yash%20Sharma&fontSize=52&fontColor=C9C4FF&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20Author%20%40%20%22Think%20in%20AI%22&descAlignY=58&descSize=18&descColor=8E86D9" width="100%"/>
+  <!-- Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Yash%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Published%20Author&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-<!-- ================= TYPING SVG ================= -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A599E9&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Author+of+%22Code+in+Python%2C+Think+in+AI%22;Currently+writing+Volume+II;Building+Intelligent+Systems+%7C+Python+%7C+Java+%7C+C%2B%2B" alt="Typing SVG" />
-</a>
+  <br/>
 
-<br/>
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Architecting+Intelligent+Systems;Co-Author+of+'Code+in+Python%2C+Think+in+AI';AI%2FML+Engineer+%40+Tridevum+Technologies;Specializing+in+Deep+Learning+%26+LLMs" alt="Typing Animation" />
+  </a>
 
-<!-- ================= BADGES ================= -->
-<img src="https://img.shields.io/badge/AI%2FML%20Engineer-24243E?style=for-the-badge&logo=OpenAI&logoColor=C9C4FF&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Author-Think%20in%20AI-24243E?style=for-the-badge&logo=BookStack&logoColor=C9C4FF&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20India-24243E?style=for-the-badge&logo=GoogleMaps&logoColor=C9C4FF&labelColor=0F0C29" />
+  <br/><br/>
 
-<br/><br/>
+  <!-- Academic & Location Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20CSE-6d28d9?style=for-the-badge&logo=academicons&logoColor=white" alt="Academic Badge" />
+    <img src="https://img.shields.io/badge/Certification-OCI%202025%20AI%20Foundations-4c1d95?style=for-the-badge&logo=oracle&logoColor=white" alt="Certification Badge" />
+    <img src="https://img.shields.io/badge/Location-India-581c87?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  </p>
 
-<!-- ================= CONTACT BUTTONS ================= -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-302B63?style=for-the-badge&logo=linkedin&logoColor=C9C4FF" />
-</a>
-<a href="https://github.com/Yash-041" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-302B63?style=for-the-badge&logo=github&logoColor=C9C4FF" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2&section=header" width="100%"/>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-About_Me-302B63?style=flat-square&labelColor=0F0C29" height="28"/>
-
-```python
-class YashSharma:
-    def __init__(self):
-        self.role        = "AI / ML Engineer"
-        self.location    = "Ghaziabad, India"
-        self.book        = "Code in Python, Think in AI"
-        self.current_wip = "Working on Volume II"
-        self.languages   = ["Python", "Java", "C++"]
-        self.focus       = ["Machine Learning", "Deep Learning", "NLP", "MLOps"]
-
-    def philosophy(self):
-        return "Write code that thinks. Build systems that learn."
-```
-
-- 🧠 **AI / ML Engineer** focused on building intelligent, production-grade systems
-- 📖 Author of **"Code in Python, Think in AI"** — currently writing **Volume II**
-- 🔭 Currently exploring advanced ML architectures, applied deep learning & MLOps pipelines
-- 🌱 Constantly refining the intersection of **clean engineering** and **applied intelligence**
-- 📍 Based in **Ghaziabad, India**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2&section=header" width="100%"/>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-Tech_Arsenal-302B63?style=flat-square&labelColor=0F0C29" height="28"/>
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-24243E?style=for-the-badge&logo=python&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Java-24243E?style=for-the-badge&logo=openjdk&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/C++-24243E?style=for-the-badge&logo=cplusplus&logoColor=A599E9" />
-
-**AI / ML Frameworks**
-
-<img src="https://img.shields.io/badge/TensorFlow-24243E?style=for-the-badge&logo=tensorflow&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/PyTorch-24243E?style=for-the-badge&logo=pytorch&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/scikit--learn-24243E?style=for-the-badge&logo=scikitlearn&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Keras-24243E?style=for-the-badge&logo=keras&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/OpenCV-24243E?style=for-the-badge&logo=opencv&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/HuggingFace-24243E?style=for-the-badge&logo=huggingface&logoColor=A599E9" />
-
-**Data & Numerical Computing**
-
-<img src="https://img.shields.io/badge/NumPy-24243E?style=for-the-badge&logo=numpy&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Pandas-24243E?style=for-the-badge&logo=pandas&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Matplotlib-24243E?style=for-the-badge&logo=plotly&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Seaborn-24243E?style=for-the-badge&logo=python&logoColor=A599E9" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Jupyter-24243E?style=for-the-badge&logo=jupyter&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Git-24243E?style=for-the-badge&logo=git&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Docker-24243E?style=for-the-badge&logo=docker&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/Linux-24243E?style=for-the-badge&logo=linux&logoColor=A599E9" />
-<img src="https://img.shields.io/badge/VS_Code-24243E?style=for-the-badge&logo=visualstudiocode&logoColor=A599E9" />
+  <!-- CTA Buttons -->
+  <p>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:contact@example.com">
+      <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
 </div>
 
+---
+
+## Executive Summary
+
+Enterprise-focused **AI/ML Engineer** with hands-on experience in building, fine-tuning, and deploying machine learning architectures and scalable intelligent systems. Published co-author specializing in translating complex AI concepts into pragmatic, high-impact software solutions.
+
+---
+
+## Technical Skillset
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `SQL` `Bash` |
+| **AI / ML Frameworks** | `PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV` |
+| **LLMs & GenAI** | `LangChain` `LlamaIndex` `Hugging Face` `Transformers` `RAG` |
+| **Cloud & DevOps** | `Oracle Cloud Infrastructure (OCI)` `Docker` `Git` `CI/CD` |
+| **Databases** | `PostgreSQL` `Vector DBs (Chroma, Pinecone)` `Redis` |
+
+---
+
+## Featured Works & Publications
+
+<details>
+<summary><b>📚 Published Work: Code in Python, Think in AI (Vol 1)</b></summary>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2&section=header" width="100%"/>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-Featured_Work-302B63?style=flat-square&labelColor=0F0C29" height="28"/>
-
-<details open>
-<summary><b>📖 Code in Python, Think in AI — Volume I</b></summary>
-<br/>
-
-> A book bridging practical Python engineering with applied AI thinking — written for developers who want to move from *writing code* to *building intelligent systems*.
-
-| | |
-|---|---|
-| **Type** | Technical Book |
-| **Language** | Python |
-| **Focus** | AI / ML fundamentals through applied coding |
-| **Status** | ✅ Published |
+> Co-authored technical publication structured around establishing an AI-first mindset for problem-solving using modern Python frameworks.
+- **Focus:** System design for intelligent applications, algorithmic foundations, and applied ML patterns.
+- **Status:** Published & Available.
 
 </details>
 
 <details>
-<summary><b>📘 Code in Python, Think in AI — Volume II</b></summary>
+<summary><b>🚀 Upcoming Release: Code in Python, Think in AI (Vol 2)</b></summary>
 <br/>
 
-> The next chapter — going deeper into advanced ML concepts, real-world model building, and production-oriented AI engineering practices.
-
-| | |
-|---|---|
-| **Type** | Technical Book |
-| **Language** | Python |
-| **Focus** | Advanced ML / applied deep learning |
-| **Status** | 🚧 In Progress |
+> Authoring Volume 2, focusing heavily on advanced, real-world AI applications, large language model orchestrations, and productionizing models.
+- **Focus:** Multi-agent architectures, enterprise RAG systems, model optimization, and edge deployment.
+- **Status:** In Progress.
 
 </details>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2&section=header" width="100%"/>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-GitHub_Analytics-302B63?style=flat-square&labelColor=0F0C29" height="28"/>
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-041&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A599E9&icon_color=8E86D9&text_color=C9C4FF&ring_color=302B63" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-041&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A599E9&text_color=C9C4FF&langs_count=8" width="38%" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yashsharma&show_icons=true&theme=synthwave&bg_color=0f172a&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed&border_color=581c87&hide_border=false" width="410" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsharma&theme=synthwave&background=0f172a&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7&border=581c87" width="410" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
-<br/>
+  <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-041&theme=radical&hide_border=true&background=0F0C29&stroke=302B63&ring=A599E9&fire=8E86D9&currStreakLabel=C9C4FF" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-041&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A599E9&line=8E86D9&point=C9C4FF" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsharma&layout=compact&theme=synthwave&bg_color=0f172a&title_color=a855f7&text_color=e2e8f0&border_color=581c87&hide_border=false" alt="Top Languages" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2&section=header" width="100%"/>
-
-<br/>
+---
 
 <div align="center">
-
-### <img src="https://img.shields.io/badge/-Let's_Connect-302B63?style=flat-square&labelColor=0F0C29" height="28"/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=C9C4FF" />
-</a>
-<a href="https://github.com/Yash-041" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-302B63?style=for-the-badge&logo=github&logoColor=C9C4FF" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Yash-041&label=Profile%20Views&color=302B63&style=for-the-badge" />
-
+  <sub>Engineered with precision. Driven by Artificial Intelligence.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
